@@ -25,3 +25,7 @@ API REST comparateur de prix au Sénégal ! Cette API permet aux utilisateurs d'
 
    ```shell
    mvn spring-boot:run
+
+## Documentation de l'API
+
+L'API est documentée avec OpenAPI (Swagger) pour faciliter l'intégration et la compréhension. Vous pouvez accéder à la documentation interactive en exécutant l'application et en visitant l'URL **http://localhost:8080/swagger-ui.html**.
